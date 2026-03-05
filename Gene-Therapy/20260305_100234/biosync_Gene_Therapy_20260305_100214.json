@@ -1,0 +1,110 @@
+{
+  "topic": "Gene Therapy",
+  "timestamp": "20260305_100214",
+  "papers": [
+    {
+      "title": "miR-1290 serves as a potential biomarker for osteoporotic fracture and regulates osteoblast function by targeting KDM5A.",
+      "authors": "Xu X, Huang J, Chen Q et al.",
+      "year": "2026",
+      "pmid": "41782000",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41782000/",
+      "source": "NCBI"
+    },
+    {
+      "title": "Analysis of Acquired Fusion Mutations in EGFR-TKIs-Resistant Patients with Advanced Lung Cancer.",
+      "authors": "Yang Y, Zhang N, Shi L et al.",
+      "year": "2026",
+      "pmid": "41781838",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41781838/",
+      "source": "NCBI"
+    },
+    {
+      "title": "Prognostic Impact of Wilms' Tumour 1 Mutation in Patients with Acute Myeloid Leukaemia.",
+      "authors": "Ali M, Bozdar M, Fatimah S et al.",
+      "year": "2026",
+      "pmid": "41781828",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41781828/",
+      "source": "NCBI"
+    },
+    {
+      "title": "Prosta-omics: machine learning-driven TPSA prediction and molecular modeling of ASPM-inhibitors for prostate cancer treatment.",
+      "authors": "Sahibzada KI, Shahid S, Shahid S et al.",
+      "year": "2026",
+      "pmid": "41781783",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41781783/",
+      "source": "NCBI"
+    },
+    {
+      "title": "Clinical course of proteinuria due to cubilin variants: a large multicenter pediatric cohort.",
+      "authors": "Cicek N, Alavanda C, Pınarbası AS et al.",
+      "year": "2026",
+      "pmid": "41781699",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41781699/",
+      "source": "NCBI"
+    }
+  ],
+  "proteins": [
+    {
+      "protein": "Macrophage-expressed gene 1 protein",
+      "gene": "MPEG1",
+      "organism": "Homo sapiens",
+      "accession": "Q2M385",
+      "link": "https://www.uniprot.org/uniprotkb/Q2M385/entry"
+    },
+    {
+      "protein": "High mobility group protein B1",
+      "gene": "HMGB1",
+      "organism": "Homo sapiens",
+      "accession": "P09429",
+      "link": "https://www.uniprot.org/uniprotkb/P09429/entry"
+    },
+    {
+      "protein": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",
+      "gene": "PIK3CG",
+      "organism": "Homo sapiens",
+      "accession": "P48736",
+      "link": "https://www.uniprot.org/uniprotkb/P48736/entry"
+    },
+    {
+      "protein": "Endosome/lysosome-associated apoptosis and autophagy regulator 1",
+      "gene": "ELAPOR1",
+      "organism": "Homo sapiens",
+      "accession": "Q6UXG2",
+      "link": "https://www.uniprot.org/uniprotkb/Q6UXG2/entry"
+    },
+    {
+      "protein": "Hypoxia-inducible lipid droplet-associated protein",
+      "gene": "HILPDA",
+      "organism": "Homo sapiens",
+      "accession": "Q9Y5L2",
+      "link": "https://www.uniprot.org/uniprotkb/Q9Y5L2/entry"
+    }
+  ],
+  "drugs": [
+    {
+      "brand_name": "Unknown",
+      "generic_name": "Unknown",
+      "indications": "INDICATIONS AND USAGE Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:"
+    },
+    {
+      "brand_name": "Naproxen",
+      "generic_name": "NAPROXEN",
+      "indications": "1 INDICATIONS AND USAGE Naproxen tablets and naproxen sodium tablets are indicated for: the relief of the signs and symptoms of: • rheumatoid arthritis • osteoarthritis • ankylosing spondylitis • Polyarticular Juvenile Idiopathic Arthritis Naproxen tablets and naproxen sodium tablets are also indica..."
+    },
+    {
+      "brand_name": "Mekinist",
+      "generic_name": "TRAMETINIB",
+      "indications": "1 INDICATIONS AND USAGE MEKINIST is a kinase inhibitor indicated as a single agent for the treatment of BRAF-inhibitor treatment-naïve patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations as detected by an FDA-approved test. ( 1.1 , 2.1 ) MEKINIST is indicated, in com..."
+    },
+    {
+      "brand_name": "Unknown",
+      "generic_name": "Unknown",
+      "indications": "INDICATIONS & USAGE Gabapentin Tablets, USP Read the Medication Guide before you start taking gabapentin and each time you get a refill. There may be new information. This information does not take the place of talking to your healthcare provider about your medical condition or treatment. What is th..."
+    },
+    {
+      "brand_name": "Glimepiride",
+      "generic_name": "GLIMEPIRIDE",
+      "indications": "1 INDICATIONS AND USAGE Glimepiride tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus [see Clinical Studies (14.1) ]. Limitations of Use Glimepiride tablets should not be used for the treatment of type 1 diabetes mellitus or ..."
+    }
+  ]
+}
