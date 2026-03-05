@@ -1,0 +1,110 @@
+{
+  "topic": "Alzheimers disease",
+  "timestamp": "20260305_100622",
+  "papers": [
+    {
+      "title": "α-synuclein positivity is associated with decline in brain microstructure in the Alzheimer's disease spectrum.",
+      "authors": "Mak E, Przybelski SA, Reid RI et al.",
+      "year": "2026",
+      "pmid": "41782064",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41782064/",
+      "source": "NCBI"
+    },
+    {
+      "title": "Impacts of host genetics on gut microbiome composition in Alzheimer's disease.",
+      "authors": "Liu J, Cao J, Jia L et al.",
+      "year": "2026",
+      "pmid": "41782023",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41782023/",
+      "source": "NCBI"
+    },
+    {
+      "title": "Baseline predictors of neurophysiological response to combined physical and cognitive training in older adults with subjective cognitive decline.",
+      "authors": "Chiu HC, Hsieh YW, Cheng CH",
+      "year": "2026",
+      "pmid": "41781884",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41781884/",
+      "source": "NCBI"
+    },
+    {
+      "title": "Functional and structural retinal alterations in Alzheimer's disease: insights from photopic negative response (PhNR) and OCT-based analysis.",
+      "authors": "Sener H, Ozer F, Polat OA et al.",
+      "year": "2026",
+      "pmid": "41781798",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41781798/",
+      "source": "NCBI"
+    },
+    {
+      "title": "Integrating ensemble machine-learning and fibril docking to discover potent, novel triazole-naphthalene tau-aggregation inhibitors.",
+      "authors": "Saha P, Chouhan A",
+      "year": "2026",
+      "pmid": "41781782",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41781782/",
+      "source": "NCBI"
+    }
+  ],
+  "proteins": [
+    {
+      "protein": "Amyloid-beta precursor protein",
+      "gene": "APP",
+      "organism": "Homo sapiens",
+      "accession": "P05067",
+      "link": "https://www.uniprot.org/uniprotkb/P05067/entry"
+    },
+    {
+      "protein": "Presenilin-1",
+      "gene": "PSEN1",
+      "organism": "Homo sapiens",
+      "accession": "P49768",
+      "link": "https://www.uniprot.org/uniprotkb/P49768/entry"
+    },
+    {
+      "protein": "Presenilin-2",
+      "gene": "PSEN2",
+      "organism": "Homo sapiens",
+      "accession": "P49810",
+      "link": "https://www.uniprot.org/uniprotkb/P49810/entry"
+    },
+    {
+      "protein": "Triggering receptor expressed on myeloid cells 2",
+      "gene": "TREM2",
+      "organism": "Homo sapiens",
+      "accession": "Q9NZC2",
+      "link": "https://www.uniprot.org/uniprotkb/Q9NZC2/entry"
+    },
+    {
+      "protein": "Phospholipid-transporting ATPase ABCA7",
+      "gene": "ABCA7",
+      "organism": "Homo sapiens",
+      "accession": "Q8IZY2",
+      "link": "https://www.uniprot.org/uniprotkb/Q8IZY2/entry"
+    }
+  ],
+  "drugs": [
+    {
+      "brand_name": "Naproxen",
+      "generic_name": "NAPROXEN",
+      "indications": "1 INDICATIONS AND USAGE Naproxen tablets and naproxen sodium tablets are indicated for: the relief of the signs and symptoms of: • rheumatoid arthritis • osteoarthritis • ankylosing spondylitis • Polyarticular Juvenile Idiopathic Arthritis Naproxen tablets and naproxen sodium tablets are also indica..."
+    },
+    {
+      "brand_name": "Unknown",
+      "generic_name": "Unknown",
+      "indications": "For the temporary relief of nasal decongestiom due to the commomn cold, hay fever or other upper respiratpry allergies. Temporarily relieves nasal stuffiness. Decongests nasal passages: shrinks swollen membranes. Temporarily restores freer breathing through the nose. Helps decongest sinus openings a..."
+    },
+    {
+      "brand_name": "Mekinist",
+      "generic_name": "TRAMETINIB",
+      "indications": "1 INDICATIONS AND USAGE MEKINIST is a kinase inhibitor indicated as a single agent for the treatment of BRAF-inhibitor treatment-naïve patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations as detected by an FDA-approved test. ( 1.1 , 2.1 ) MEKINIST is indicated, in com..."
+    },
+    {
+      "brand_name": "Unknown",
+      "generic_name": "Unknown",
+      "indications": "INDICATIONS & USAGE Gabapentin Tablets, USP Read the Medication Guide before you start taking gabapentin and each time you get a refill. There may be new information. This information does not take the place of talking to your healthcare provider about your medical condition or treatment. What is th..."
+    },
+    {
+      "brand_name": "Glimepiride",
+      "generic_name": "GLIMEPIRIDE",
+      "indications": "1 INDICATIONS AND USAGE Glimepiride tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus [see Clinical Studies (14.1) ]. Limitations of Use Glimepiride tablets should not be used for the treatment of type 1 diabetes mellitus or ..."
+    }
+  ]
+}
